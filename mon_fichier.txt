@@ -2,7 +2,9 @@ J'ajoute une ligne lea
 
 J'ajoute une ligne Fatine
 
-<<<<<<< HEAD
+
 Fatine modifie :c
 
->>>>>>> new_branch_feature_Fatine
+
+J'ajoute un ligne partie 8.3
+
